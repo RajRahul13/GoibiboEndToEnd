@@ -4,9 +4,9 @@
   <test thread-count="5" name="GoibiboTest">
    <classes>
       <class name="book.hotel.room.beforeBooking"/>
+      <class name="book.hotel.room.HotelSearchForOneAdult"/>
       <class name="book.hotel.room.BookForOneAdultOoty"/>
       <class name="book.hotel.room.HotelDetails"/>
-      <class name="book.hotel.room.HotelSearchForOneAdult"/>
       <class name="book.hotel.room.HotelwithFilters"/>
     </classes>
   </test> <!-- GoibiboTest -->
